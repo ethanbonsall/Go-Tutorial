@@ -8,4 +8,4 @@ This repository contains the starter project for setting up a Go development env
 
 ## Link to the Tutorial
 For a detailed step-by-step guide, visit the tutorial here:  
-[Setting up a DevContainer Project for Go](https://kasra84.github.io/comp423-course-notes/)
+[Setting up a DevContainer Project for Go](https://kasra84.github.io/comp423-course-notes/tutorials/go-setup/)
